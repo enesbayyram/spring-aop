@@ -9,7 +9,9 @@ import org.springframework.stereotype.Component;
 @Aspect
 @Component("aopController")
 public class AOPController {
-
+    
+	
+	
 //	@Before("execution(* com.jforce.model.Personel.personelInfo(..))")	
 //	public void beforePersonelnfo(JoinPoint joinPoint)
 //	{
